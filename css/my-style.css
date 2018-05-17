@@ -1,0 +1,66 @@
+
+h1{
+  color:orange;
+  text-align: center;
+  font-family: 'El Rio Lobo';
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.fondo {
+  margin-top: -20px;
+  background-image: url('../cuzco2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body {
+  margin-top: -8px;
+margin-left: -8px;
+margin-right: -8px;
+}
+
+#primerp{
+margin-top: -20px;
+  color:white;
+  text-align:center;
+}
+h2 {
+  text-align:right;
+  color:orange;
+  font-family:'El Rio Lobo';
+}
+#fondo1 {
+background-color:#A50000;
+height: 150px
+}
+
+#fondo2{
+  background-color:#1F76C2;
+}
+
+#segundop {
+  margin-top: -15px;
+  color:white;
+  text-align:right;
+  height: 500px;
+}
+
+#ultimotitulo {
+  color:black;
+  font-family:'El Rio Lobo';
+  font-size: 50px;
+}
+
+#ultimop {
+  color:black;
+  font-family: 'El Rio Lobo';
+  font-size: 40px;
+  margin-right: 600px;
+ text-align: right;
+
+}
